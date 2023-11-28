@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/jamoragar/jamoragar/main/wave.gif" width="30px" height="30px" />
 
 My name is Javier Moraga and I'm a Software / Full Stack Web developer. I'm from Chile, living in Berlin, Germany and currently working at Santander Bank.
-- 🔭 I’m currently working on an tourism app for my home city.
+- 🔭 I’m currently working on an tourism app of my home city.
 - 🌱 I’m currently learning Astro 🚀 & Spring Boot
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
